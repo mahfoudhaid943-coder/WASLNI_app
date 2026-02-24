@@ -1,2 +1,2 @@
-# WASLNI App
-Flutter project.
+# WASLNI
+Flutter App
